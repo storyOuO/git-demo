@@ -12,5 +12,5 @@ hello sakura!hello git!
 hello sakura!hello git!
 hello sakura!hello git!
 hello sakura!hello git!
-hello sakura!hello git!
+hello sakura!hello git! hot-fix test
 hello sakura!hello git!
